@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 import java.io.IOException;
 
-public class Main {
+public class Main { 
     public static void main(String[] args) throws IOException{
       ArrayList<Integer> arr= new ArrayList<>();
       
